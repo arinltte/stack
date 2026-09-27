@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/stacklogo.jpg" alt="stack Logo" width="64" />
+  <img src="public/stacklogo.png" alt="stack Logo" width="64" />
   <br />
   <h1 align="center">stack</h1>
   <p align="center">代码库转 Markdown。</p>
@@ -128,5 +128,9 @@ open stack.xcodeproj
 基于 MIT 许可证分发。有关更多信息，请参阅 `LICENSE`。
 
 <p align="center">
-  <i>开发者：arinltte · cjshen00@gmail.com</i>
+  <i>Logo 由 GUMO 制作 · https://www.instagram.com/gumoooo._/</i>
+</p>
+
+<p align="center">
+  <i>开发者：arinltte · arinltte00@gmail.com</i>
 </p>

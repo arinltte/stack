@@ -510,17 +510,11 @@ struct StackView: View {
 
             Spacer(minLength: 0)
 
-            VStack(spacing: 1) {
-                Text("Developed by [arinltte](https://github.com/arinltte)")
-                    .font(.system(size: 10))
-                    .foregroundColor(.secondary)
-                    .tint(client.appTheme.accentColor)
-
-                Text("cjshen00@gmail.com")
-                    .font(.system(size: 10))
-                    .foregroundColor(.secondary)
-            }
-            .multilineTextAlignment(.center)
+            Text("Developed by [arinltte](https://github.com/arinltte) · arinltte00@gmail.com")
+                .font(.system(size: 10))
+                .foregroundColor(.secondary)
+                .tint(client.appTheme.accentColor)
+                .multilineTextAlignment(.center)
         }
         .padding(14)
     }

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/stacklogo.jpg" alt="stack Logo" width="64" />
+  <img src="public/stacklogo.png" alt="stack Logo" width="64" />
   <br />
   <h1 align="center">stack</h1>
   <p align="center">Repo to Markdown.</p>
@@ -128,5 +128,9 @@ Build and run the `stack` scheme in Xcode. Requires Xcode 16 or later.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="center">
-  <i>Developed by arinltte · cjshen00@gmail.com</i>
+  <i>Logo by GUMO · https://www.instagram.com/gumoooo._/</i>
+</p>
+
+<p align="center">
+  <i>Developed by arinltte · arinltte00@gmail.com</i>
 </p>
